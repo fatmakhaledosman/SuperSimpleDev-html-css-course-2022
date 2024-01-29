@@ -1,0 +1,1 @@
+![exercises5-1](https://github.com/fatmakhaledosman/SuperSimpleDev-html-css-course-2022/blob/main/1-exercise-solutions/lesson-06/images/160038643-817dc585-b7f9-4b93-b2f1-8a32f8ca5b69.png)
