@@ -1,0 +1,47 @@
+p,
+input,
+button {
+    font-family: Arial;
+}
+
+.title {
+    font-size: 45px;
+    margin-bottom: 25px;
+
+}
+
+input {
+    font-size: 20px;
+    display: block;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    padding: 15px 20px;
+    width: 400px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+.destination-textbox {
+    margin-bottom: 35px;
+}
+
+.request-button {
+    background-color: black;
+    color: white;
+    margin-right: 20px;
+
+}
+
+.schedule-button {
+    background-color: white;
+    color: black;
+
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 16px;
+    border: none;
+}
