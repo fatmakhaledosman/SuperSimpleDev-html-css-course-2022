@@ -1,0 +1,25 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.lightpink {
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.lightblue {
+    background-color: lightblue;
+    width: 200px;
+}
+
+.item1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
