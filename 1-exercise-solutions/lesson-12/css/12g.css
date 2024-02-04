@@ -1,0 +1,61 @@
+.container {
+    padding: 10px 15px;
+    width: 500px;
+}
+
+div {
+    margin-bottom: 10px;
+    font-family: Arial;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.picture {
+    width: 15%;
+}
+
+.profile-info {
+    flex: 1;
+}
+
+.follow {
+    width: 20%;
+}
+
+.profile-picture {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 30px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.info {
+    color: gray;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.follow-button {
+    background-color: blue;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 5px;
+}
