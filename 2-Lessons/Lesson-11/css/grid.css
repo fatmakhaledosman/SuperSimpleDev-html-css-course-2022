@@ -1,0 +1,17 @@
+.grid-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+    margin-top: 30px;
+}
+
+.div1 {
+    background-color: lightblue;
+    height: 200px;
+}
+
+.div2 {
+    background-color: lightpink;
+    height: 200px;
+}
